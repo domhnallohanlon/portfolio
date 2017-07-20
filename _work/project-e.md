@@ -1,5 +1,5 @@
 ---
-date: '2017-06-23T00:35:02.252Z'
+date: '2017-07-20T10:10:06.228Z'
 layout: work
 title: 'Project E'
 description: 'Undergraduate thesis project at University of E. This should be a short, catchy description of the project.'
